@@ -2,6 +2,7 @@
 
 - 🌱 Learning Computer Science
 - 🎸 OtoMAD Maker
+- 👨🏻‍💻 Developing [KarenBot](https://github.com/xszqxszq/KarenBot)
 - 📫 Reach me on BiliBili: [@心水湛清](https://space.bilibili.com/4675183)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/4675183) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xszqxszq) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/xszqxszq) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/325208896438534144) [![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white)](https://wakatime.com/@xszqxszq)
